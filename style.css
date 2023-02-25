@@ -167,4 +167,13 @@ img {
     header {
 	   padding: 30px 30px 100px 0px;
     }
+    
+    main{
+        max-width: 768px;
+    }
+    
+    .popover-content {
+        left: 56%;
+}
+
 }
