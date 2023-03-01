@@ -116,6 +116,11 @@ main {
     text-decoration: underline;
 }
 
+li {
+    margin: 20px;
+    line-height: 31.5px;
+}
+
 #navigation{
     margin-bottom: 150px;
 }
